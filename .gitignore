@@ -32,3 +32,8 @@ override.tf.json
 **/*.txt
 
 .txt 
+
+.terraform.lock.hcl
+
+.crt.pem
+**/.crt.pem
