@@ -88,3 +88,6 @@ terraform apply --auto-approve
 - pour se connecter au serveur mariadb en ligne de commande entrer la commande suivante dans le terminal:
 
 `mysql --user=<nom utilisateur> --password=<password> --host=<nom du serveur mariadb>.mariadb.database.azure.com --ssl-ca=<nom du certificat>`
+
+
+test
